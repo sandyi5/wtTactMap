@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="help_map_ctrl">지도 조정</string>
+    <string name="text_help_map_ctrl">
+        <b>1</b> 자유모드\n
+        <b>2</b> 항공기 따르기\n
+        <b>3</b> 회전 잠금\n
+        <b>4</b> 재설정 하시려면 클릭하세요\n
+    </string>
+    
+    <string name="help_prediction">예측</string>
+    <string name="text_help_prediction">
+        비행기의 경로를 10초, 30초, 90초 마다 예상합니다 (속도와 방향에 따라 예측됩니다)
+    </string>
+    
+    <string name="faq">문의</string>
+    
+    <string name="faq_connection">연결중</string>
+    <string name="text_faq_con">
+        <b>어떻게 연결하나요?</b>\n
+         \u00A0\u00A0 이 앱은 당신이 WarThunder 을 실행하는 컴퓨터의 IP 주소로 작동합니다,당신의 IP 주소를 여기서 찾아보세요: http://ip.junkcode.net \n\n
+         
+        <b>저는 IP 주소를 입력했습니다. 하지만 계속 \연결되지않음\ 만 뜹니다"</b>\n
+         \u00A0\u00A0 그것은 아마 당신의 로컬 네트워크 문제일것입니다. 당신의 로컬네트워크 라우팅을 확인하시려면 여기서 보십시오: http://ip.junkcode.net/help \n\n
+         
+        <b>아직도 연결되지 않았습니다!</b>\n
+         \u00A0\u00A0 당신은 http://ip.junkcode.net/help 을 읽지 않았습니다. 맞죠?
+         \n
+    </string>
+    
+    <string name="faq_extras">기타</string>
+    <string name="text_faq_extra">   
+        <b>저는 후원을 하였습니다. 하지만 제 코드는 어디에있죠?</b>\n
+         \u00A0\u00A0 후원을하신뒤 몆분뒤에 이메일로 코드가 전송되었을겁니다. 한번 확인해보세요. 만약 전송이 되지 않았다면 support@junkcode.net 로 이메일을 보내주세요. \n\n
+         
+        <b>저는 코드를 입력했습니다. 하지만 아무것도 잠금해제되지 않았습니다</b>\n
+         \u00A0\u00A0 이 앱을 재시작 해보십시오 \n\n
+        
+    </string>
+    <string name="faq_improvement">앱 개선</string>
+    <string name="text_faq_improve">"  
+        <b>저는 무언가가 마음에 들지 않습니다</b>\n
+         \u00A0\u00A0 그것이 뭔지 알려주십시오 - http://junkcode.net/forum/viewforum.php?f=14 \n\n
+         
+        <b>저는 버그를 발견했습니다</b>\n
+         \u00A0\u00A0 이곳에 올려주십시오(영어로 하셔야됩니다!) : http://github.com/JunkCode/wtTactMap/issues?state=open \n\n
+         
+        <b>저는 새로운 기능을위한 아이디어가 생각났습니다</b>\n
+         \u00A0\u00A0 그것이 뭔지 알려주십시오 - http://junkcode.net/forum/viewforum.php?f=14 \n\n
+         
+        <b>저는 번역에 도움을 주고싶습니다/icons/...</b>\n
+         \u00A0\u00A0 약간의 리소스가 이미 이곳에 있습니다 : http://github.com/JunkCode/wtTactMap You can propose modification or add new things. If you have any question or other ideas let us know - http://junkcode.net/forum/viewforum.php?f=14 \n\n
+          
+    </string>
+    
+</resources>
