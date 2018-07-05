@@ -20,7 +20,7 @@
     <string name="ip_h">IP 주소</string>
     <string name="find_ip">스캔</string>
     <string name="set_ip">IP 지정</string>
-    <string name="ip">WarThunder 을 실행하고 있는 컴퓨터의 IP (without port):</string>
+    <string name="ip">WarThunder 를 실행하고 있는 컴퓨터의 IP (포트 ):</string>
     
     
     <string name="zoom_btns">확대 버튼</string>
@@ -105,7 +105,7 @@
     
     <string name="ext_unlock">기타 잠금해제</string>
     <string name="ext_unlock_det">
-        "기타는 <b><i>아무</i></b> 후원에 의해 잠금이 풀립니다\n(만약 당신이 후원을하고 코드를 받지 못하였다면 우리에게 이메일을 주십시오)"</string>
+        "기타는 <b><i>여러가지</i></b> 후원에 의해 잠금이 풀립니다\n(만약 당신이 후원을하고 코드를 받지 못하였다면 우리에게 이메일을 주십시오)"</string>
     <string name="ext_unlock_dial">"잠금해제 코드:"</string>
     
     <string name="ext_link">G+ 로 연결</string>
@@ -152,7 +152,7 @@
     <string name="trigger_words_kill_default">파괴,중지,уничтожен</string>
     <string name="trigger_words_kill_summary">기본: \"destroyed,shot down,уничтожен\"</string>
     <string name="burns">Burns</string>
-    <string name="trigger_words_burn">불탄 트리거 단어</string>
+    <string name="trigger_words_burn">전차가 불탔습니다!</string>
     <string name="trigger_words_burn_default">set afire,подожжён</string>
     <string name="trigger_words_burn_summary">Default value: \"set afire,подожжён\"</string>
     <string name="player_name">게임상의 닉네임</string>
@@ -170,11 +170,11 @@
     <string name="airplane_range">항공기 발각 범위</string>
     <string name="ground_range">지상 발각 </string>
     <string name="connected">연결됨</string>
-    <string name="supporter">지지자</string>
+    <string name="supporter">지원자</string>
     <string name="contributor">후원자</string>
     <string name="contribute_resources">우리의 앱 리소스를 개선시켜주세요</string>
     <string name="waiting_for_battle">전투를 위해 잠시만 기다려주세요</string>
-    <string name="subscription">(Subscription)</string>
+    <string name="subscription">(구독)</string>
     <string name="exit_title">이 앱을 종료하시겠습니까?</string>
     <string name="exit_question">연결을 종료하고 이 앱을 종료하시겠습니까?</string>
     <string name="hide_add_requirement">지지자나 후원자가 되시면 광고를 끌수 있습니다.</string>
